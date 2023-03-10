@@ -14,6 +14,7 @@
 </head>
 
 <body>
+    <h4 class="text-center">Students Information</h4>
     <div class="container table table-responsive table-hover" style="width:100%">
         <table class="table" id="example" class="display" style="width:100%">
             <thead class="thead-dark">
@@ -37,13 +38,9 @@
                 @endforeach
             </tbody>
         </table>
-
     </div>
     </div>
-
-
-
-
+    
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
         integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
     </script>
